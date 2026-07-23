@@ -13,3 +13,25 @@ A lightweight web-based calculator built with **HTML**, **CSS**, and **JavaScrip
 ---
 
 ## 📂 Project Structure
+
+Calculator/
+├── index.html
+├── style.css
+├── script.js
+├── LICENSE
+└── .gitignore
+
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Any modern web browser (Chrome, Firefox, Edge, Safari)
+
+### Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mahmutimsirovic/calculatorapp.git
+
+
